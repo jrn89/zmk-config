@@ -14,5 +14,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: [cradio_left, cradio_right]
-    name: "Ferris Sweep MX High"
+    shield: cradio_left
+  - board: nice_nano_v2
+    shield: cradio_right
+  - board: nice_nano_v2
+    shield: settings_reset
